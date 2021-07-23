@@ -269,6 +269,15 @@ def sharedDeps = {
     installer 'org.lwjgl:lwjgl-stb:3.2.2'
     */
 
+    // Bukkit
+
+    implementation 'commons-lang:commons-lang:2.6'
+    implementation 'org.yaml:snakeyaml:1.28'
+    compileOnly 'org.apache.maven:maven-resolver-provider:3.8.1'
+    compileOnly 'org.apache.maven.resolver:maven-resolver-connector-basic:1.7.0'
+    compileOnly 'org.apache.maven.resolver:maven-resolver-transport-http:1.7.0'
+    compileOnly 'org.jetbrains:annotations:21.0.1'
+
 }
 
 def sharedFmlonlyForge = { Project prj ->

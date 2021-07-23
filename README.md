@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://i.imgur.com/zTCTCWG.png" alt="Magma logo" align="middle"></img>
 
-![](https://img.shields.io/badge/Minecraft%20Forge-1.17.1%20--%2037.0.1%20--%2029f1757-orange.svg?style=for-the-badge) ![](https://img.shields.io/badge/Bukkit-1.17%20r1-blue?style=for-the-badge) ![](https://img.shields.io/badge/CraftBukkit-Build%20-orange?style=for-the-badge) ![](https://img.shields.io/badge/Spigot-Build%20-yellow?style=for-the-badge) [![](https://img.shields.io/github/workflow/status/magmafoundation/Magma-1.17.x/Dev-Builds?style=for-the-badge)](https://github.com/magmafoundation/Magma-1.17.x/actions/workflows/dev-builds.yaml)
+![](https://img.shields.io/badge/Minecraft%20Forge-1.17.1%20--%2037.0.1%20--%2029f1757-orange.svg?style=for-the-badge) ![](https://img.shields.io/badge/Bukkit-1.17%20r1%20e7b0f8d608d-blue?style=for-the-badge) ![](https://img.shields.io/badge/CraftBukkit-Build%20-orange?style=for-the-badge) ![](https://img.shields.io/badge/Spigot-Build%20-yellow?style=for-the-badge) [![](https://img.shields.io/github/workflow/status/magmafoundation/Magma-1.17.x/Dev-Builds?style=for-the-badge)](https://github.com/magmafoundation/Magma-1.17.x/actions/workflows/dev-builds.yaml)
 </div>
 
 ## About
