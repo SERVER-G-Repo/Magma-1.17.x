@@ -270,13 +270,21 @@ def sharedDeps = {
     */
 
     // Bukkit
+    installer 'commons-lang:commons-lang:2.6'
+    installer 'org.yaml:snakeyaml:1.28'
+    installer 'org.apache.maven:maven-resolver-provider:3.8.1'
+    installer 'org.apache.maven.resolver:maven-resolver-connector-basic:1.7.0'
+    installer 'org.apache.maven.resolver:maven-resolver-transport-http:1.7.0'
+    installer 'org.jetbrains:annotations:21.0.1'
 
-    implementation 'commons-lang:commons-lang:2.6'
-    implementation 'org.yaml:snakeyaml:1.28'
-    compileOnly 'org.apache.maven:maven-resolver-provider:3.8.1'
-    compileOnly 'org.apache.maven.resolver:maven-resolver-connector-basic:1.7.0'
-    compileOnly 'org.apache.maven.resolver:maven-resolver-transport-http:1.7.0'
-    compileOnly 'org.jetbrains:annotations:21.0.1'
+    // CraftBukkit
+    installer 'org.fusesource.jansi:jansi:1.18'
+    installer 'jline:jline:2.12.1'
+    installer 'org.apache.logging.log4j:log4j-iostreams:2.14.1'
+    installer 'org.ow2.asm:asm:9.1'
+    installer 'com.googlecode.json-simple:json-simple:1.1.1'
+    installer 'org.xerial:sqlite-jdbc:3.34.0'
+    installer 'mysql:mysql-connector-java:5.1.49'
 
 }
 
